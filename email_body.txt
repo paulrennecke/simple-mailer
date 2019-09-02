@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<body style="background-color:#dbf1ff;">
+<p>
+Dear Subscriber!</p>
+<P style="text-align:center;">
+Leading India.ai Presents vesAIthon (24 hours Nationwide Hackathon on AI ) hosted at Vivekanand Education Society's Institute of Technology Mumbai(VESIT Mumbai,Zonal Lead Partner) Starting on the morning of 28th June, 2019 till the dawn of the next morning.</p><p style="text-align:center;">
+We invite you to join in the spirit of the Hackathon by building on the solution that you would propose to the problem statements provided. We feel that innovation is best demonstrated by bringing ideas to life.</p>
+<p style="text-align:center;">
+Prize Money</p><p style="text-align:center;">
+*1st Prize :- Rs.50,000/-*</p><p style="text-align:center;">
+*2nd Prize :- Rs.30,000/-*</p><p style="text-align:center;">
+*3rd Prize :- Rs. 15,000/-*</p> <p style="text-align:center;">
+And many more exciting prizes...</p><p style="text-align:center;">
+Problem Statements include building AI Assistants for</p><p style="text-align:center;">
+💠 Senior Citizens</p><p style="text-align:center;">
+💠 Differently Abled</p><p style="text-align:center;">
+💠 Kids
+</p><p style="text-align:center;">
+Procedure of the Hackathon:</p> <p style="text-align:center;">
+👉Stage 1: Students will have to submit the abstract for the problem statement they are choosing.</p> <p style="text-align:center;">
+👉Stage 2:- You can justify the system by Skype session/ Phone call to test the team's approach towards the actual problem statement.</p> <p style="text-align:center;">
+👉Stage 3:- Shortlisted teams will be called for live Hackathon at VESIT</p>
+<p style="text-align:center;">Home - vesAIthon</p><p style="text-align:center;">
+vesaithon.ves.ac.in</p>
+<p style="text-align:center;color:#0061ff">
+Through this Hackathon, initiated by Leading India AI hosted by VESIT, vesAIthon’19, we propose to make an impact on the community by building a workable AI solution for most pressing Social Challenges faced by Senior Citizens, Differently abled and Kids. At this event, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow.</p><p style="text-align:center;">
+Hope to see you in large numbers</p><p>
+Regards,</p>
+<p>
+VesAIthon Team
+</p>
+</body>
+</html>

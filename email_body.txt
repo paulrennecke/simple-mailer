@@ -1,34 +1,38 @@
-﻿<!DOCTYPE html>
-<html>
-<body style="background-color:#dbf1ff;">
-<p>
-Dear Subscriber!</p>
-<P style="text-align:center;">
-Leading India.ai Presents vesAIthon (24 hours Nationwide Hackathon on AI ) hosted at Vivekanand Education Society's Institute of Technology Mumbai(VESIT Mumbai,Zonal Lead Partner) Starting on the morning of 28th June, 2019 till the dawn of the next morning.</p><p style="text-align:center;">
-We invite you to join in the spirit of the Hackathon by building on the solution that you would propose to the problem statements provided. We feel that innovation is best demonstrated by bringing ideas to life.</p>
-<p style="text-align:center;">
-Prize Money</p><p style="text-align:center;">
-*1st Prize :- Rs.50,000/-*</p><p style="text-align:center;">
-*2nd Prize :- Rs.30,000/-*</p><p style="text-align:center;">
-*3rd Prize :- Rs. 15,000/-*</p> <p style="text-align:center;">
-And many more exciting prizes...</p><p style="text-align:center;">
-Problem Statements include building AI Assistants for</p><p style="text-align:center;">
-💠 Senior Citizens</p><p style="text-align:center;">
-💠 Differently Abled</p><p style="text-align:center;">
-💠 Kids
-</p><p style="text-align:center;">
-Procedure of the Hackathon:</p> <p style="text-align:center;">
-👉Stage 1: Students will have to submit the abstract for the problem statement they are choosing.</p> <p style="text-align:center;">
-👉Stage 2:- You can justify the system by Skype session/ Phone call to test the team's approach towards the actual problem statement.</p> <p style="text-align:center;">
-👉Stage 3:- Shortlisted teams will be called for live Hackathon at VESIT</p>
-<p style="text-align:center;">Home - vesAIthon</p><p style="text-align:center;">
-vesaithon.ves.ac.in</p>
-<p style="text-align:center;color:#0061ff">
-Through this Hackathon, initiated by Leading India AI hosted by VESIT, vesAIthon’19, we propose to make an impact on the community by building a workable AI solution for most pressing Social Challenges faced by Senior Citizens, Differently abled and Kids. At this event, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow.</p><p style="text-align:center;">
-Hope to see you in large numbers</p><p>
-Regards,</p>
-<p>
-VesAIthon Team
-</p>
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+</head>
+<body>
+<div style="font-size: 10pt; font-family: Helvetica; color: black;">
+Hey!<br>
+<br>
+Aufgrund eines unangekündigten Updates unseres Shopsystems könnte es zum Zeitpunkt deines Kaufs deines Tickets für das VEKTOL Festival 2025 dazu gekommen sein, dass dein Ticket nicht korrekt generiert werden konnte. In diesem Fall fehlt auf deinem Ticket die zugehörige Ticketkategorie. Damit es vor Ort beim Einlass keine Komplikationen gibt, würden wir dich bitten, das Ticket aus dem Anhang für den Einlass zu nutzen. Das alte Ticket kannst du dann einfach löschen.<br>
+<br>
+Wir bitten ganz herzlich um Entschuldigung und wünschen dir schon jetzt eine wunderbare Zeit auf dem VEKTOL Festival! Solltest du noch Fragen haben kannst du dich jederzeit an uns wenden!<br>
+<br>
+Deine ticketree-Crew!
+</div>
+
+<br>
+<div dir="ltr"><br>
+<div id="ms-outlook-mobile-signature">
+<div style="page:WordSection1">
+<div>
+<p style="margin:0cm;font-size:11pt;font-family:Calibri, sans-serif"><img width="275" height="111" style="width:2.8645in;height:1.1562in" id="Grafik_x0020_1" src="cid:Grafik_x0020_1"><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">Werner &amp; Ziemons Music, Event &amp; Media UG (Haftungsbeschränkt)</span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">Oberforstbacherstraße 44 I 52076 Aachen&nbsp;</span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">+49 1578 8 66 35 85</span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><o:p></o:p></span></p>
+<p style="margin:0cm;font-size:11pt;font-family:Calibri, sans-serif"><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: rgb(84, 130, 53);"><a href="mailto:info@ticketree.de" title="mailto:info@ticketree.de" style="text-decoration: underline; color: rgb(5, 99, 193);"><span style="color: rgb(84, 130, 53);">info@ticketree.de</span></a></span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: rgb(84, 130, 53);"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: rgb(84, 130, 53);"><a href="http://www.ticketree.de" title="http://www.ticketree.de/" style="text-decoration: underline; color: rgb(5, 99, 193);"><span style="color: rgb(84, 130, 53);">www.ticketree.de</span></a></span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+<br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">Sitz der Gesellschaft: Aachen&nbsp;</span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">HRB 25465 – Amtsgericht Aachen&nbsp;</span><span style="font-size: 10pt; font-family: &quot;Courier New&quot;; color: black;"><br>
+</span><span style="font-size: 10pt; font-family: Helvetica; color: black;">Geschäftsführer: Robin Werner &amp; Marvin Ziemons</span><o:p></o:p></p>
+<p style="margin:0cm;font-size:11pt;font-family:Calibri, sans-serif"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+</div>
+</div>
 </body>
 </html>

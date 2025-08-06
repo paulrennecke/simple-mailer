@@ -147,10 +147,10 @@ try:
             
             # Add the logo image as inline attachment
             try:
-                with open('ticketree.png', 'rb') as img:
+                with open('logo.png', 'rb') as img:
                     image = MIMEImage(img.read())
-                    image.add_header('Content-ID', '<ticketree-logo>')
-                    image.add_header('Content-Disposition', 'inline', filename='ticketree-logo.png')
+                    image.add_header('Content-ID', '<logo>')
+                    image.add_header('Content-Disposition', 'inline', filename='logo.png')
                     msg.attach(image)
             except Exception as img_err:
                 logging.error(f"Failed to attach logo image: {str(img_err)}")

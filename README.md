@@ -2,6 +2,8 @@
 
 Python-Tool zum Versenden von E-Mails mit individuellen PDF-Anhängen.
 
+Wenn du nur eine benutzerfreundliche Webanwendung suchst, die das erledigt: [online-mailer](https://github.com/paulrennecke/online-mailer)
+
 ## Dateien
 
 - **email_body.html** - E-Mail Inhalt (HTML-Format)
